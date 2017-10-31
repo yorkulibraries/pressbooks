@@ -1,14 +1,20 @@
 <?php
 /*
-Plugin Name: Pressbooks
-Plugin URI: https://pressbooks.com
-Description: Simple Book Production
+Plugin Name: YorkBooks
+Plugin URI: https://pressbooks.library.yorku.ca
+Description: Open-educational Resources
 Version: 4.3.5
-Author: Book Oven Inc.
-Author URI: https://pressbooks.com
+Author: Book Oven Inc., York University
+Author URI: https://yorku.ca
 Text Domain: pressbooks
 License: GPLv2
 Network: True
+*/
+/*
+Source changed by YorkU, 2017-10-31.
+Book Oven Inc. is the original author.
+https://pressbooks.com
+License: GPLv2
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
